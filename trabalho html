@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <title>marcos sousa</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<header>
+    <nav>
+        <ul>
+            <li><a href="trabalho html">inicio</a></li>
+            <li><a href="sobre.html">Sobre</a></li>
+            <li><a href="times.html">times</a></li>
+        </ul>
+    </nav>
+</header>
+<body>
+
+    <h1> Neymar Jr</h1>
+    <h2>jogador de futebol</h2>
+
+</body>
+</html>

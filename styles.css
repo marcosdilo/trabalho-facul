@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+}
+
+header {
+    background-color: #1a1a1a;
+    padding: 20px;
+    text-align: center;
+}
+
+h1, h2 {
+    text-align: center;
+    font-family:'Bebas Neue';
+}
+
+nav ul {
+    list-style: none; 
+    padding: 0; 
+    margin: 0;
+    display: flex; 
+    justify-content: center; 
+    gap: 30px; 
+}
+
+
+nav a {
+    color: white; /
+    text-decoration: none;
+    font-size: 18px; 
+    font-weight: bold; 
+    text-transform: uppercase; 
+}
+
+
+nav a:hover {
+    color: #04ec04; 
+}
+
+table {
+    width: 90%; 
+    margin: 20px auto; 
+    border-collapse: collapse; 
+    background-color: white; 
+}
+
+th, td {
+    border: 1px solid #6e6868; 
+    padding: 12px; 
+    text-align: center; 
+}
+
+th {
+    background-color: #1a1a1a; 
+    color: white; 
+    text-transform: uppercase; 
+}
+
+tr:hover {
+    background-color: #5c5858;
+}
+
+.imagem {
+    text-align: center;
+    margin: 20px 0;
+}
+.imagem img {
+    width: 500px;
+    border: 5px solid #1a1a1a;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+}
+
+.perfil-fisico {
+    text-align: center;
+    font-family:'Bebas Neue';
+}
+
+.secao-estatisticas {
+    font-family:'Bebas Neue';
+}
